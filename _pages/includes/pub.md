@@ -3,6 +3,8 @@
 
 ### 2025
 - ``MSSP``</b>JX Liao</b>, C He, J Li, J Sun, S Zhang∗, X Zhang∗, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484)[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
+
+
 ### 2024
  - ``IEEE TII`` <b>JX Liao </b>, J Li, HC Dong, M Zhang*, S Zhang*, X Zhang* [Logarithmic Cumulative Transformation: A Simple Yet Effective Approach for Bearing Remaining Useful Life Prediction](https://ieeexplore.ieee.org/document/10537050)
 
