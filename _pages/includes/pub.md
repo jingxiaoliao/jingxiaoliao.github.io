@@ -6,15 +6,13 @@
 ### 2024
  - ``IEEE TII`` <b>JX Liao </b>, J Li, HC Dong, M Zhang*, S Zhang*, X Zhang* [Logarithmic Cumulative Transformation: A Simple Yet Effective Approach for Bearing Remaining Useful Life Prediction](https://ieeexplore.ieee.org/document/10537050)
 
--``TIM``<b>JX Liao</b>, SL Wei, CL Xie, T Zeng, J Sun, S Zhang*, X Zhang*, FL Fan*, [BearingPGA-Net: A Lightweight and Deployable Bearing Fault Diagnosis Network via Decoupled Knowledge Distillation and FPGA Acceleration](https://ieeexplore.ieee.org/document/10373183)[![](https://img.shields.io/github/stars/asdvfghg/BearingPGA-Net?style=social&label=Code+Stars)](https://github.com/asdvfghg/BearingPGA-Net)
+- ``IEEE TIM``<b>JX Liao</b>, SL Wei, CL Xie, T Zeng, J Sun, S Zhang*, X Zhang*, FL Fan*, [BearingPGA-Net: A Lightweight and Deployable Bearing Fault Diagnosis Network via Decoupled Knowledge Distillation and FPGA Acceleration](https://ieeexplore.ieee.org/document/10373183)[![](https://img.shields.io/github/stars/asdvfghg/BearingPGA-Net?style=social&label=Code+Stars)](https://github.com/asdvfghg/BearingPGA-Net)
 
-              <p> [2] M. Zhang, B. Zhao, J. Sun, Q. Wang*, D. Liu, J. Li, <b>J. Liao*</b>, Research on Driver's Fatigue Detection Based on Information Fusion, Computers, Materials & Continua <a href="https://cdn.techscience.cn/files/cmc/2024/online/CMC0410/TSP_CMC_48643/TSP_CMC_48643.pdf"  target="_blank">[paper]</a></p>
-              <p> [3] <b>Jing-Xiao Liao</b>, Bo-Jian Hou, Hang-Cheng Dong, Hao Zhang, Xiaoge Zhang, Jinwei Sun, Shiping Zhang*, Feng-Lei Fan*, Quadratic Neuron-empowered Heterogeneous Autoencoder for
-Unsupervised Anomaly Detection, IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2024.3394795. <a href="https://ieeexplore.ieee.org/document/10510400"  target="_blank">[paper]</a> </p>
+- ``IEEE TAI``<b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
 
+- ``Computers, Materials & Continua`` M. Zhang, B. Zhao, J. Sun, Q. Wang*, D. Liu, J. Li, <b>J. Liao*</b>, [Research on Driver's Fatigue Detection Based on Information Fusion](https://cdn.techscience.cn/files/cmc/2024/online/CMC0410/TSP_CMC_48643/TSP_CMC_48643.pdf)
               
-              
-            <p> [6] XC Zhong, Q Wang, D Liu, Z Chen, <b>J Liao</b>, J Sun, Y Zhang, FL Fan, EEG-DG: A Multi-Source Domain Generalization Framework for Motor Imagery EEG Classification, IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3431230. <a href="https://ieeexplore.ieee.org/document/10609514"  target="_blank">[paper]</a></p>
+- ``IEEE JBHI`` XC Zhong, Q Wang, D Liu, Z Chen, <b>J Liao</b>, J Sun, Y Zhang, FL Fan, [EEG-DG: A Multi-Source Domain Generalization Framework for Motor Imagery EEG Classification](https://ieeexplore.ieee.org/document/10609514)
 
 
 
