@@ -2,7 +2,7 @@
 # 📖 Educations
 - *2023.09 - present*, Ph.D Candidate, Industrial and Systems Engineering, The Hong Kong Polytechnic University, Hong Kong SAR
 - *2021.03 - present*, Ph.D Candidate, Instrumentation Science and Technology, Harbin Institute of Technology, Harbin, China
-- *2015.09 - 2019.06*, M.Eng., Instrumentation Engineering, Harbin Institute of Technology, Harbin, China
+- *2017.09 - 2019.06*, M.Eng., Instrumentation Engineering, Harbin Institute of Technology, Harbin, China
 - *2013.09 - 2017.07*, B.S., Measurement and Control Technology and Instrumentation, Harbin Institute of Technology, Harbin, China
 
 # 💬 Invited Talks
