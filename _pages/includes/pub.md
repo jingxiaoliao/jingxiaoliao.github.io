@@ -2,9 +2,9 @@
 # 📝 Publications 
 
 ### 2025
-- ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang∗, X Zhang∗, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484)[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
+- ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang*, X Zhang*, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484)[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
 
-- ``Arxiv`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang∗, X Zhang∗, [NeuronSeek: On Stability and Expressivity of Task-Driven Neurons
+- ``Arxiv`` H Pei#, <b>JX Liao</b>#,  Q Zhao, T Gao, S Zhang, X Zhang*, F Fan*, [NeuronSeek: On Stability and Expressivity of Task-Driven Neurons
 ](https://www.preprints.org/manuscript/202506.1586/v1)[![](https://img.shields.io/github/stars/HanyuPei22/NeuronSeek?style=social&label=Code+Stars)]([https://github.com/asdvfghg/ClassBD](https://github.com/HanyuPei22/NeuronSeek))
 
 
