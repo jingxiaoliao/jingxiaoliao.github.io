@@ -34,7 +34,3 @@
 
 - ``Neurocomputing``H Dong, <b> J Liao </b>, Y Wang, Y Chen, B Liu, D Ye, G Liu*, [Training neural networks for solving 1-D optimal piecewise linear approximation](https://www.sciencedirect.com/science/article/pii/S0925231222008864)
 
-
-# 📝 Talks
-
-- ``IJCNN2025`` Tutorial: "Recently Advancement of Introducing Neuronal Diversity into Deep Learning" [Slide](https://1drv.ms/b/c/c5eba26a8f9bbedf/EVY9z15WRcdHnTblyNqUahABQIz42Bl8u0oOUPaxNXBeFg?e=5AcjsJ).
