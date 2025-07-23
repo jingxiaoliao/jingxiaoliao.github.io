@@ -4,10 +4,12 @@
 ### 2025
 - ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang*, X Zhang*, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484)[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
 
-- ``IEEE TPAMI`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://arxiv.org/pdf/2303.06316.pdf)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
+- ``IEEE TPAMI`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://ieeexplore.ieee.org/document/11080117)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
 
 - ``Arxiv`` H Pei#, <b>JX Liao</b>#,  Q Zhao, T Gao, S Zhang, X Zhang*, F Fan*, [NeuronSeek: On Stability and Expressivity of Task-Driven Neurons
 ](https://www.preprints.org/manuscript/202506.1586/v1)[![](https://img.shields.io/github/stars/HanyuPei22/NeuronSeek?style=social&label=Code+Stars)]([https://github.com/asdvfghg/ClassBD](https://github.com/HanyuPei22/NeuronSeek))
+
+- ``Arxiv`` J Fan, Z Hao, J Shen, SL Jui, Y Zhang, <b>JX Liao</b>, FL Fan*, [Compress Any Segment Anything Model (SAM)](https://arxiv.org/pdf/2507.08765)[![](https://img.shields.io/github/stars/Juntongkuki/Birkhoff-Model-Compression?style=social&label=Code+Stars)](https://github.com/Juntongkuki/Birkhoff-Model-Compression)
 
 
 
