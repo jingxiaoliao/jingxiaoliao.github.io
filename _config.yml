@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jing-Xiao Liao (廖敬骁)"
-description              : "Dual Ph.D Candidate in Harbin Insitute of Technology and The Hong Kong Polytechnic University. Data Science, AI for Industry."
+title                    : "Dr. Jing-Xiao Liao (廖敬骁)"
+description              : "Ph.D, Data Science, AI for Industry."
 repository               : "jingxiaoliao/jingxiaoliao.github.io"
 google_scholar_stats_use_cdn : true
 
