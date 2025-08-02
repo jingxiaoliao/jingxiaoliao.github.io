@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dr. Jing-Xiao Liao (廖敬骁)"
+title                    : "Jing-Xiao Liao (廖敬骁)"
 description              : "Ph.D, Data Science, AI for Industry."
 repository               : "jingxiaoliao/jingxiaoliao.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Jing-Xiao Liao"
+  name             : "Dr. Jing-Xiao Liao"
   avatar           : "images/android-chrome-192x192.png"
   bio              : 
   location         : "Hong Kong SAR"
