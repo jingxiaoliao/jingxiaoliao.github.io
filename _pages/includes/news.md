@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.08* Our paper "Marginal Contribution Spectral Fusion Network for Remote Hyperspectral Soil Organic Matter Estimation" has been accepted at Remote Sensing!
 
 - *2025.07* Our paper "One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks" has been accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence!
 
