@@ -6,6 +6,8 @@
 
 - ``IEEE TPAMI`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://ieeexplore.ieee.org/document/11080117)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
 
+- ``Remote Sens`` J Tang, D Liu, Q Wang*, J Li, <b>J Liao</b>, J Sun, [Marginal Contribution Spectral Fusion Network for Remote Hyperspectral Soil Organic Matter Estimation](https://www.mdpi.com/2072-4292/17/16/2806)
+
 - ``Arxiv`` H Pei#, <b>JX Liao</b>#,  Q Zhao, T Gao, S Zhang, X Zhang*, F Fan*, [NeuronSeek: On Stability and Expressivity of Task-Driven Neurons
 ](https://www.preprints.org/manuscript/202506.1586/v1)[![](https://img.shields.io/github/stars/HanyuPei22/NeuronSeek?style=social&label=Code+Stars)]([https://github.com/asdvfghg/ClassBD](https://github.com/HanyuPei22/NeuronSeek))
 
