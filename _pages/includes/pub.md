@@ -13,7 +13,7 @@
 
 - ``Arxiv`` J Fan, Z Hao, J Shen, SL Jui, Y Zhang, <b>JX Liao</b>, FL Fan*, [Compress Any Segment Anything Model (SAM)](https://arxiv.org/pdf/2507.08765)[![](https://img.shields.io/github/stars/Juntongkuki/Birkhoff-Model-Compression?style=social&label=Code+Stars)](https://github.com/Juntongkuki/Birkhoff-Model-Compression)
 
-- ``RESS`` Chenyu Li, Pingping Dong, Yanwen Jin, <b>Jing-Xiao Liao</b>, Sai-Ho Chung, Chao Jiang, Xiaoge Zhang* [Chaos-inspired active learning for physics-informed neural networks to assess the reliability of multi-state systems](https://www.sciencedirect.com/science/article/pii/S095183202501049X)
+- ``RESS`` C Li, P Dong, Y Jin, <b>JX Liao</b>, SH Chung, C Jiang, X Zhang* [Chaos-inspired active learning for physics-informed neural networks to assess the reliability of multi-state systems](https://www.sciencedirect.com/science/article/pii/S095183202501049X)
 
 
 ### 2024
