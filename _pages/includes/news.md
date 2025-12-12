@@ -1,6 +1,6 @@
 # 🔥 News
 - *2025.12* I have successfully defended my PhD dissertation in PolyU and became a dual Ph.D.
-- 
+  
 - *2025.11* Our paper "Chaos-inspired active learning for physics-informed neural networks to assess the reliability of multi-state systems" has been accepted at Reliability Engineering & System Safety.
 
 - *2025.08* Our paper "Marginal Contribution Spectral Fusion Network for Remote Hyperspectral Soil Organic Matter Estimation" has been accepted at Remote Sensing.
