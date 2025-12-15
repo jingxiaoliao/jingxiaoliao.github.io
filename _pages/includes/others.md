@@ -6,7 +6,7 @@
 - *2013.09 - 2017.07*, B.S., Measurement and Control Technology and Instrumentation, Harbin Institute of Technology, Harbin, China
 
 # 💬 Invited Talks
-- *2025.11* Uncertainty-Aware Heterogeneous Neural Blind Deconvolution Ensemble Network for Reliable System-Level Fault Diagnosis in Railway Transmission Systems. The sixth International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence, Guangzhou, China
+- *2025.11* "Uncertainty-Aware Heterogeneous Neural Blind Deconvolution Ensemble Network for Reliable System-Level Fault Diagnosis in Railway Transmission Systems." The sixth International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence, Guangzhou, China
 
 - *2025.07*, "Recently Advancement of Introducing Neural Diversity into Deep Learning." At International Joint Conference on Neural Networks (IJCNN), Rome, Italy.  [Slide](https://1drv.ms/b/c/c5eba26a8f9bbedf/EVY9z15WRcdHnTblyNqUahABQIz42Bl8u0oOUPaxNXBeFg?e=5AcjsJ).
 - *2022.08*, "Attention-embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis". At the 2nd International High-level Forum on High-end Measurement Instruments & 12th International Symposium on Precision Engineering Measurements and Instrumentation (Tier 1 conference in Instrumentation Science), Guilin, China.
