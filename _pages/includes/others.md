@@ -12,6 +12,12 @@
 - *2022.08*, "Attention-embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis". At the 2nd International High-level Forum on High-end Measurement Instruments & 12th International Symposium on Precision Engineering Measurements and Instrumentation (Tier 1 conference in Instrumentation Science), Guilin, China.
 
 
+# 👨🏻‍🏫 Teaching
+- PolyU: ISE5606 Business Intelligence and Data Mining, 23/24 Spring, Teaching Assistant
+- PolyU: ISE328 Technology and Applications of Electronic Business Systems, 24/25 Fall, Teaching Assistant
+- PolyU: ENG3004 Society and the Engineer, 24/25 Spring, Teaching Assistant
+
+
 # 💻 Work Experiences
 - *2025.09 - present*, Postdoctoral (PT), Department of Data Science, City University of Hong Kong.
 - *2025.09 - 2025.12*, Research Assistant (PT), Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University.
