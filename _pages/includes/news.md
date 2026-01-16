@@ -1,4 +1,7 @@
 # 🔥 News
+
+- *2026.01*  Our paper "Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring" has been accepted at Journal of Industrial Information Integration.
+
 - *2025.12* I have successfully defended my PhD dissertation in PolyU and became a dual Ph.D.
   
 - *2025.11* Our paper "Chaos-inspired active learning for physics-informed neural networks to assess the reliability of multi-state systems" has been accepted at Reliability Engineering & System Safety.
