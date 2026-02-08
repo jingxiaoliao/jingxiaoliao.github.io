@@ -1,6 +1,9 @@
 
 # 📝 Publications 
 
+### 2026
+- ``JIII`` C He, H Shi, <b>JX Liao</b>, B Liu, Q Liu, J Li, Z Yu, [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://www.sciencedirect.com/science/article/abs/pii/S2452414X26000099)
+
 ### 2025
 - ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang*, X Zhang*, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484)[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
 
