@@ -6,6 +6,8 @@
 - *2013.09 - 2017.07*, B.S., Measurement and Control Technology and Instrumentation, Harbin Institute of Technology, Harbin, China
 
 # 💬 Invited Talks
+-*2026.01* "Advancement of Nolinear Neural Networks." Huawei, Dongguan, China 
+
 - *2025.11* "Uncertainty-Aware Heterogeneous Neural Blind Deconvolution Ensemble Network for Reliable System-Level Fault Diagnosis in Railway Transmission Systems." The sixth International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence, Guangzhou, China
 
 - *2025.07*, "Recently Advancement of Introducing Neural Diversity into Deep Learning." At International Joint Conference on Neural Networks (IJCNN), Rome, Italy.  [[Slide](https://1drv.ms/b/c/c5eba26a8f9bbedf/EVY9z15WRcdHnTblyNqUahABQIz42Bl8u0oOUPaxNXBeFg?e=5AcjsJ)]
