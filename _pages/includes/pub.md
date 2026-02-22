@@ -11,6 +11,7 @@
 
 ### 2026
 - ``JIII`` C He, H Shi, <b>JX Liao</b>, B Liu, Q Liu, J Li, Z Yu, [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://www.sciencedirect.com/science/article/abs/pii/S2452414X26000099)
+-  ``IEEE TR`` WE Yu, S Zhang*, J Sun, <b>JX Liao*</b>, X Zhang*, [A class-weighted supervised contrastive learning long-tailed bearing fault diagnosis approach using quadratic neural network](https://arxiv.org/pdf/2309.11717.pdf)
 
 ### 2025
 - ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang*, X Zhang*, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484)[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
@@ -44,7 +45,7 @@
 - ``IEEE TIM`` <b>JX Liao</b>, HC Dong, ZQ Sun, J Sun, S Zhang*, FL Fan*, [Attention-embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/10076833),  <span style="color:red">(ESI High Cited Paper)</span>[![](https://img.shields.io/github/stars/asdvfghg/QCNN_for_bearing_diagnosis?style=social&label=Code+Stars)](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)
 -   ``MST`` <b>JX Liao</b>, HC Dong, L Lou, J Sun, S Zhang*, [Multi-task Neural Network Blind Deconvolution and its Application to Bearing Fault Feature Extraction](https://iopscience.iop.org/article/10.1088/1361-6501/accbdb)[![](https://img.shields.io/github/stars/asdvfghg/MNNBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/MNNBD)
 - ``Computers in Biology and Medicine`` XC Zhong, Q Wang*, D Liu, <b>J-X Liao</b>, R Yang, S Duan, G Ding, J Sun, [A deep domain adaptation framework with correlation alignment for EEG-based motor imagery classification](https://www.sciencedirect.com/science/article/pii/S001048252300700X)
-- ``Arxiv`` WE Yu, J Sun, S Zhang*, X Zhang*, <b>JX Liao*</b>, [A class-weighted supervised contrastive learning long-tailed bearing fault diagnosis approach using quadratic neural network](https://arxiv.org/pdf/2309.11717.pdf)
+
 - ``Arxiv`` HC Dong, Y Jiang, Y Huang, <b>J Liao </b>, B Liu, D Ye, G Liu, [Rethinking Class Activation Maps for Segmentation: Revealing Semantic Information in Shallow Layers by Reducing Noise](https://arxiv.org/pdf/2308.02118.pdf)
 
 
