@@ -1,7 +1,7 @@
 # 🔥 News
 
 - *2026.02*  Our paper "A Class-Aware Supervised Contrastive Quadratic Neural Network for Imbalanced Bearing Fault Diagnosis" has been accepted at IEEE Transactions on Reliability.
-- 
+  
 - *2026.01*  Our paper "Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring" has been accepted at Journal of Industrial Information Integration.
 
 - *2025.12* I have successfully defended my PhD dissertation in PolyU and became a dual Ph.D.
