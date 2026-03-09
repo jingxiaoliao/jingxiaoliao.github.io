@@ -6,6 +6,8 @@ I hold a PhD from Harbin Institute of Technology, under the supervision of [Prof
 
 My research interests revolve around signal processing, prognostics & health management (PHM), and model compression. I have published 10+ papers at the flagship journals such as TPAMI, TII, MSSP, TIM, TAI. 
 
-**Openings:** I am seeking self-motivated students for online positions as Intern Engineers and Research Assistants. Our work focuses on LLM foundation model research, AI agents, and LLM compression. If you are interested in these areas, please feel free to contact me.
+### Openings
+
+I am seeking self-motivated students for online positions as Intern Engineers and Research Assistants. You will be recognized as an intern or RA at the Shenzhen Research Institute of Big Data. Our work focuses on LLM foundation model research, AI agents, and LLM compression. If you are interested in these areas, please feel free to contact me at jingxiao.liao[at]cityu.edu.hk
 
 Our research group can provide internship certificates and recommendation letters for outstanding students, and support applications for Ph.D. programs in the United States and Hong Kong SAR.
