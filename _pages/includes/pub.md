@@ -37,7 +37,7 @@
 
 - ``Computers, Materials & Continua`` M. Zhang, B. Zhao, J. Sun, Q. Wang*, D. Liu, J. Li, <b>J. Liao*</b>, [Research on Driver's Fatigue Detection Based on Information Fusion](https://cdn.techscience.cn/files/cmc/2024/online/CMC0410/TSP_CMC_48643/TSP_CMC_48643.pdf)
               
-- ``IEEE JBHI`` XC Zhong, Q Wang, D Liu, Z Chen, <b>J Liao</b>, J Sun, Y Zhang, FL Fan, [EEG-DG: A Multi-Source Domain Generalization Framework for Motor Imagery EEG Classification](https://ieeexplore.ieee.org/document/10609514)
+- ``IEEE JBHI`` XC Zhong, Q Wang, D Liu, Z Chen, <b>J Liao</b>, J Sun, Y Zhang, FL Fan, [EEG-DG: A Multi-Source Domain Generalization Framework for Motor Imagery EEG Classification](https://ieeexplore.ieee.org/document/10609514) <span style="color:red">(ESI High Cited Paper)</span>
 
 
 
