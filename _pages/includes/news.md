@@ -1,6 +1,6 @@
 # 🔥 News
 
--*2026.03* We have three papers recognized as ESI highly cited paper in this year.
+- *2026.03* We have three papers recognized as ESI highly cited paper in this year.
 
 - *2026.02*  Our paper "A Class-Aware Supervised Contrastive Quadratic Neural Network for Imbalanced Bearing Fault Diagnosis" has been accepted at IEEE Transactions on Reliability.
   
