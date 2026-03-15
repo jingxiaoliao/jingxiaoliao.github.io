@@ -8,6 +8,6 @@ My research interests revolve around signal processing, prognostics & health man
 
 ### Openings
 
-I am seeking self-motivated students for online positions as Intern Engineers and Research Assistants. You will be recognized as an intern or RA at the Shenzhen Research Institute of Big Data. Our work focuses on LLM foundation model research, AI agents, and LLM compression. If you are interested in these areas, please feel free to contact me at jingxiao.liao[at]cityu.edu.hk
+I am seeking self-motivated students for remote positions as Intern Engineers and Research Assistants. Successful applicants will be affiliated with the [Shenzhen Research Institute of Big Data (深圳市大数据研究院)](https://www.sribd.cn/), a research institute of the Chinese University of Hong Kong (Shenzhen). Our research focuses on LLM foundation models, AI agents, industrial AI, and PHM. If you are interested in these areas, please feel free to contact me at jingxiao.liao[at]cityu.edu.hk.
 
 Our research group can provide internship certificates and recommendation letters for outstanding students, and support applications for Ph.D. programs in the United States and Hong Kong SAR.
