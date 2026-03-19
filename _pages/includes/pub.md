@@ -13,6 +13,7 @@
 - ``JIII`` C He, H Shi, <b>JX Liao</b>, B Liu, Q Liu, J Li, Z Yu, [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://www.sciencedirect.com/science/article/abs/pii/S2452414X26000099)
 -  ``IEEE TR`` WE Yu, S Zhang*, J Sun, <b>JX Liao*</b>, X Zhang*, [A Class-Aware Supervised Contrastive Quadratic Neural Network for Imbalanced Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/11415404)[![](https://img.shields.io/github/stars/yuweien1120/CCQNet?style=social&label=Code+Stars)](https://github.com/yuweien1120/CCQNet)
 
+- ``Micromachines`` Li X, Gao Y, Chen G, Zhang M*, <b>Liao J*</b>, Wang Z, Sun J. [A Wearable Multi-Modal Measurement System with Self-Developed IMUs and Plantar Pressure Sensors for Real-Time Gait Recognition](https://www.mdpi.com/2072-666X/17/3/371).
 ### 2025
 - ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang*, X Zhang*, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484),  <span style="color:red">(ESI High Cited Paper)</span>[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
 
