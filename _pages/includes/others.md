@@ -28,4 +28,5 @@
 - *2019.07 - 2020.07*, Control & Navigation Engineer, Chang Hong Machinery Factory.
 
 # ✍️ Academic Service
-- Guest Editor in Signals
+- Active Reviewer in *TII*, *TCYB*, *TFS*, *MSSP*, *JBHI*, *iScience*, *Neurocomputing*, ...
+- Guest Editor in *Signals*
