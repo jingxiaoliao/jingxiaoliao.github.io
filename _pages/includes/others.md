@@ -29,4 +29,4 @@
 
 # ✍️ Academic Service
 - Active Reviewer in *TII*, *TCYB*, *TFS*, *MSSP*, *JBHI*, *iScience*, *Neurocomputing*, ...
-- Guest Editor in *Signals*
+- Guest Editor in *Signals* SI:[Advanced Signal Processing Techniques for Modern Artificial Intelligence Systems](https://www.mdpi.com/journal/signals/special_issues/24FQK46X46) Submittion Open
