@@ -1,4 +1,7 @@
 # 🔥 News
+
+- *2026.05* Our paper "Heterogeneous Neural Blind Deconvolution: A Signal Processing-Empowered Foundation Feature Extractor for Bearing Fault Diagnosis" has been accepted at Neural Networks.
+
 - *2026.03* Our paper "A Wearable Multimodal Measurement System With Self-Developed IMU and Plantar Pressure Sensors for Real-Time Gait Recognition" has been accepted at Micromachines.
 
 - *2026.03* We have three papers recognized as ESI highly cited paper in this year.
