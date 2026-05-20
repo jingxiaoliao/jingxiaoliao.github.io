@@ -5,11 +5,16 @@
 - ``IEEE TPAMI`` FL Fan, HC Dong, Z Wu, L Ruan, T Zeng*, Y Cui*, <b>JX Liao*</b>, [One Neuron Saved Is One Neuron Earned: On Parametric Efficiency of Quadratic Networks](https://ieeexplore.ieee.org/document/11080117)[![](https://img.shields.io/github/stars/asdvfghg/quadratic_efficiency?style=social&label=Code+Stars)](https://github.com/asdvfghg/quadratic_efficiency)
 - ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang*, X Zhang*, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484),  <span style="color:red">(ESI High Cited Paper)</span>[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
 - ``IEEE TII`` <b>JX Liao </b>, J Li, HC Dong, M Zhang*, S Zhang*, X Zhang* [Logarithmic Cumulative Transformation: A Simple Yet Effective Approach for Bearing Remaining Useful Life Prediction](https://ieeexplore.ieee.org/document/10537050)
+- ``Neural Networks`` <b>JX Liao</b>, C He, J Li, XC Zhong, J Sun, Y Cheung, FL Fan, S Zhang*, X Zhang*,
+[Heterogeneous Neural Blind Deconvolution: A Signal Processing-Empowered Foundation Feature Extractor for Bearing Fault Diagnosis](https://www.sciencedirect.com/science/article/pii/S0893608026006040)
 - ``IEEE TIM`` <b>JX Liao</b>, HC Dong, ZQ Sun, J Sun, S Zhang*, FL Fan*, [Attention-embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/10076833),  <span style="color:red">(ESI High Cited Paper)</span>[![](https://img.shields.io/github/stars/asdvfghg/QCNN_for_bearing_diagnosis?style=social&label=Code+Stars)](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)
 - ``IEEE TAI`` <b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
 
 
 ### 2026
+- ``Neural Networks`` <b>JX Liao</b>, C He, J Li, XC Zhong, J Sun, Y Cheung, FL Fan, S Zhang*, X Zhang*,
+[Heterogeneous Neural Blind Deconvolution: A Signal Processing-Empowered Foundation Feature Extractor for Bearing Fault Diagnosis](https://www.sciencedirect.com/science/article/pii/S0893608026006040)
+
 - ``JIII`` C He, H Shi, <b>JX Liao</b>, B Liu, Q Liu, J Li, Z Yu, [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://www.sciencedirect.com/science/article/abs/pii/S2452414X26000099)
 -  ``IEEE TR`` WE Yu, S Zhang*, J Sun, <b>JX Liao*</b>, X Zhang*, [A Class-Aware Supervised Contrastive Quadratic Neural Network for Imbalanced Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/11415404)[![](https://img.shields.io/github/stars/yuweien1120/CCQNet?style=social&label=Code+Stars)](https://github.com/yuweien1120/CCQNet)
 
