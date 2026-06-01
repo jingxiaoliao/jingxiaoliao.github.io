@@ -18,6 +18,7 @@
 - PolyU: ISE5606 Business Intelligence and Data Mining, 23/24 Spring, Teaching Assistant
 - PolyU: ISE328 Technology and Applications of Electronic Business Systems, 24/25 Fall, Teaching Assistant
 - PolyU: ENG3004 Society and the Engineer, 24/25 Spring, Teaching Assistant
+- CityU: SDSC6002 Research Projects for Data Science, 25/26 Fall, Teaching Mentor
 
 
 # 💻 Work Experiences
