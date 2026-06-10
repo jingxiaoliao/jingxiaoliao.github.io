@@ -1,6 +1,6 @@
 # 🔥 News
 
-- *2026.06* I am honored to serve as the Co-Chair of the Special Session in Neuroscience at the 2027 IEEE Symposium for Multidisciplinary Computational Intelligence Incubators (IEEE MCII). 
+- *2026.06* I am honored to serve as the Co-Chair with Prof. Adeel Razi and Prof. Chun-shu Wei of the Special Session in Neuroscience at the 2027 IEEE Symposium for Multidisciplinary Computational Intelligence Incubators (IEEE MCII). 
 
 - *2026.05* Our paper "Heterogeneous Neural Blind Deconvolution: A Signal Processing-Empowered Foundation Feature Extractor for Bearing Fault Diagnosis" has been accepted at Neural Networks.
 
