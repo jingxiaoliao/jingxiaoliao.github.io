@@ -31,3 +31,4 @@
 # ✍️ Academic Service
 - Active Reviewer in *TII*, *TCYB*, *TFS*, *MSSP*, *JBHI*, *iScience*, *Neurocomputing*, ...
 - Guest Editor in *Signals* SI:[Advanced Signal Processing Techniques for Modern Artificial Intelligence Systems](https://www.mdpi.com/journal/signals/special_issues/24FQK46X46) Submittion Open
+- Co-Chair in Special Session in Neuroscience at [the 2027 IEEE Symposium for Multidisciplinary Computational Intelligence Incubators (IEEE MCII)](https://attend.ieee.org/ssci-2027/symposia/special-session-ci-neuroscience/)
