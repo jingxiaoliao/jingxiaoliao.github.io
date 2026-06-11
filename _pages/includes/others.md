@@ -6,6 +6,8 @@
 - *2013.09 - 2017.07*, B.S., Measurement and Control Technology and Instrumentation, Harbin Institute of Technology, Harbin, China
 
 # 💬 Invited Talks
+- *2026.06* "Contactless Human Falling Detection Systems by WiFi Signal", Shenzhen Research Institute of City University of Hong Kong, Shenzhen, China 
+
 - *2026.01* "Advancement of Nonlinear Neural Networks." Huawei, Dongguan, China 
 
 - *2025.11* "Uncertainty-Aware Heterogeneous Neural Blind Deconvolution Ensemble Network for Reliable System-Level Fault Diagnosis in Railway Transmission Systems." The sixth International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence, Guangzhou, China
