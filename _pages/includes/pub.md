@@ -9,6 +9,7 @@
 [Heterogeneous Neural Blind Deconvolution: A Signal Processing-Empowered Foundation Feature Extractor for Bearing Fault Diagnosis](https://www.sciencedirect.com/science/article/pii/S0893608026006040)
 - ``IEEE TIM`` <b>JX Liao</b>, HC Dong, ZQ Sun, J Sun, S Zhang*, FL Fan*, [Attention-embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/10076833),  <span style="color:red">(ESI High Cited Paper)</span>[![](https://img.shields.io/github/stars/asdvfghg/QCNN_for_bearing_diagnosis?style=social&label=Code+Stars)](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)
 - ``IEEE TAI`` <b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
+-``Arxiv`` <b>JX Liao</b>, T Zhang, YH Jiang, F Zhang, HC Dong, FL Fan*, [Self-Improving is Often Sudden: Enlightenment-style Finetuning for Large-Scale Models](https://arxiv.org/pdf/2607.13395)
 
 
 ### 2026
