@@ -9,7 +9,6 @@
 [Heterogeneous Neural Blind Deconvolution: A Signal Processing-Empowered Foundation Feature Extractor for Bearing Fault Diagnosis](https://www.sciencedirect.com/science/article/pii/S0893608026006040)
 - ``IEEE TIM`` <b>JX Liao</b>, HC Dong, ZQ Sun, J Sun, S Zhang*, FL Fan*, [Attention-embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/10076833),  <span style="color:red">(ESI High Cited Paper)</span>[![](https://img.shields.io/github/stars/asdvfghg/QCNN_for_bearing_diagnosis?style=social&label=Code+Stars)](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)
 - ``IEEE TAI`` <b>JX Liao</b>, BJ Hou, HC Dong, H Zhang, X Zhang, J Sun, S Zhang*, FL Fan*, [Quadratic Neuron-empowered Heterogeneous Autoencoder for Unsupervised Anomaly Detection](https://ieeexplore.ieee.org/document/10510400)[![](https://img.shields.io/github/stars/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons?style=social&label=Code+Stars)](https://github.com/asdvfghg/Heterogeneous_Autoencoder_by_Quadratic_Neurons)
--``Arxiv`` <b>JX Liao</b>, T Zhang, YH Jiang, F Zhang, HC Dong, FL Fan*, [Self-Improving is Often Sudden: Enlightenment-style Finetuning for Large-Scale Models](https://arxiv.org/pdf/2607.13395)
 
 
 ### 2026
@@ -23,6 +22,9 @@
 - ``Micromachines`` Li X, Gao Y, Chen G, Zhang M*, <b>Liao J*</b>, Wang Z, Sun J. [A Wearable Multi-Modal Measurement System with Self-Developed IMUs and Plantar Pressure Sensors for Real-Time Gait Recognition](https://www.mdpi.com/2072-666X/17/3/371).
 
 - ``Arxiv`` <b>JX Liao</b>, H Wang, T Li, D Lyu, Y Zhang, C Cai, FL Fan. [Big2Small: A Unifying Neural Network Framework for Model Compression](https://arxiv.org/pdf/2603.29768).
+
+- ``Arxiv`` <b>JX Liao</b>, T Zhang, YH Jiang, F Zhang, HC Dong, FL Fan*, [Self-Improving is Often Sudden: Enlightenment-style Finetuning for Large-Scale Models](https://arxiv.org/pdf/2607.13395).
+
   
 ### 2025
 - ``MSSP`` <b>JX Liao</b>, C He, J Li, J Sun, S Zhang*, X Zhang*, [Classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise, Mechanical Systems and Signal Processing](https://www.sciencedirect.com/science/article/pii/S0888327024006484),  <span style="color:red">(ESI High Cited Paper)</span>[![](https://img.shields.io/github/stars/asdvfghg/ClassBD?style=social&label=Code+Stars)](https://github.com/asdvfghg/ClassBD)
